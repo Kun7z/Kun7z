@@ -34,6 +34,8 @@ I'm a passionate programming student with a deep love for crafting elegant code 
 <div align="center">
   <a href="https://github.com/Kun7z">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kun7z&show_icons=true&theme=blue-green&count_private=true&cache_seconds=1800"/>
+  </a>
+  <a href="https://github.com/Kun7z">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kun7z&layout=compact&langs_count=7&theme=blue-green&cache_seconds=1800"/>
   </a>
 </div>
